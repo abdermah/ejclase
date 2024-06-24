@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+p{
+    color: rgb(19, 71, 51);
+}
+p.azul {
+    color: blue;
+}
+#seccion01{
+    background-color: gray;
+}
